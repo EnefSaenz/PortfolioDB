@@ -1,1 +1,61 @@
-{}
+{
+  "projects": [
+  {
+    id: 1,
+    name: "MERN Tasks",
+    url: "https://mern-tasks-by-enef.netlify.app/",
+    images: [
+      { url: "/static/img/projects/1.jpg" },
+      { url: "/static/img/projects/2.jpg" },
+    ],
+    urlGit: "https://github.com/EnefSaenz/merntasks-client",
+    description: "Proyecto que consume un back de Node.",
+    iconTech: "node",
+  },
+  {
+    id: 2,
+    name: "Product Hunt",
+    url: "http://google.com",
+    images: [{ url: "/static/img/projects/2.jpg" }],
+    urlGit: "https://github.com/EnefSaenz/merntasks-server",
+    description: "Proyecto clon del sitio Product Hunt.",
+    iconTech: "product-hunt",
+  },
+  {
+    id: 3,
+    name: "Drinks recipes",
+    url: "https://drinks-recipes-by-enef.netlify.app/",
+    images: [{ url: "/static/img/projects/3.jpg" }],
+    urlGit: "https://github.com/EnefSaenz/DrinksRecipes",
+    description: "Proyecto que consume una API de recetas.",
+    iconTech: "react",
+  },
+  {
+    id: 4,
+    name: "Products Inventory",
+    url: "https://products-inventory-by-enef.netlify.app/",
+    images: [{ url: "/static/img/projects/4.jpg" }],
+    urlGit: "https://github.com/EnefSaenz/CRUDReduxClient",
+    description: "CRUD desarrollado con Redux.",
+    iconTech: "react",
+  },
+  {
+    id: 5,
+    name: "Cotizador de CriptoMonedas",
+    url: "https://crypto-quoter-by-enef.netlify.app/",
+    images: [{ url: "/static/img/projects/5.jpg" }],
+    urlGit: "https://github.com/EnefSaenz/CryptoCurrencies",
+    description: "Proyecto que consume una API de criptomonedas.",
+    iconTech: "react",
+  },
+  {
+    id: 6,
+    name: "Images browser",
+    url: "https://images-browser-by-enef.netlify.app/",
+    images: [{ url: "/static/img/projects/6.jpg" }],
+    urlGit: "https://github.com/EnefSaenz/Pixabay",
+    description: "Proyecto que consume una API de imágenes.",
+    iconTech: "js-square",
+  },
+  ]
+}
