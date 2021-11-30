@@ -56,6 +56,6 @@
     "urlGit": "https://github.com/EnefSaenz/Pixabay",
     "description": "Proyecto que consume una API de imágenes.",
     "iconTech": "js-square",
-  },
+  }
   ]
 }
