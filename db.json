@@ -23,6 +23,9 @@
          "images":[
             {
                "url":"/static/img/projects/2.jpg"
+            },
+            {
+               "url":"https://github.com/EnefSaenz/Portfolio/blob/main/public/static/img/projects/3.jpg"
             }
          ],
          "urlGit":"https://github.com/EnefSaenz/merntasks-server",
