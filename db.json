@@ -6,10 +6,10 @@
          "url":"https://mern-tasks-by-enef.netlify.app/",
          "images":[
             {
-               "url":"/static/img/projects/1.jpg"
+               "url":"/static/img/projects/MERNTasks_1.jpg"
             },
             {
-               "url":"/static/img/projects/2.jpg"
+               "url":"/static/img/projects/MERNTasks_2.jpg"
             }
          ],
          "urlGit":"https://github.com/EnefSaenz/merntasks-client",
@@ -22,10 +22,7 @@
          "url":"http://google.com",
          "images":[
             {
-               "url":"/static/img/projects/2.jpg"
-            },
-            {
-               "url":"https://github.com/EnefSaenz/Portfolio/blob/main/public/static/img/projects/3.jpg"
+               "url":"/static/img/projects/ProductHunt_1.jpg"
             }
          ],
          "urlGit":"https://github.com/EnefSaenz/merntasks-server",
@@ -38,7 +35,10 @@
          "url":"https://drinks-recipes-by-enef.netlify.app/",
          "images":[
             {
-               "url":"/static/img/projects/3.jpg"
+               "url":"/static/img/projects/DrinksRecipes_1.jpg"
+            },
+            {
+               "url":"/static/img/projects/DrinksRecipes_2.jpg"
             }
          ],
          "urlGit":"https://github.com/EnefSaenz/DrinksRecipes",
@@ -51,7 +51,10 @@
          "url":"https://products-inventory-by-enef.netlify.app/",
          "images":[
             {
-               "url":"/static/img/projects/4.jpg"
+               "url":"/static/img/projects/ProductsInventory_1.jpg"
+            },
+            {
+               "url":"/static/img/projects/ProductsInventory_2.jpg"
             }
          ],
          "urlGit":"https://github.com/EnefSaenz/CRUDReduxClient",
@@ -64,7 +67,10 @@
          "url":"https://crypto-quoter-by-enef.netlify.app/",
          "images":[
             {
-               "url":"/static/img/projects/5.jpg"
+               "url":"/static/img/projects/Criptomonedas_1.jpg"
+            },
+            {
+               "url":"/static/img/projects/Criptomonedas_2.jpg"
             }
          ],
          "urlGit":"https://github.com/EnefSaenz/CryptoCurrencies",
@@ -77,7 +83,13 @@
          "url":"https://images-browser-by-enef.netlify.app/",
          "images":[
             {
-               "url":"/static/img/projects/6.jpg"
+               "url":"/static/img/projects/Pixabay_1.jpg"
+            },
+            {
+               "url":"/static/img/projects/Pixabay_2.jpg"
+            },
+            {
+               "url":"/static/img/projects/Pixabay_3.jpg"
             }
          ],
          "urlGit":"https://github.com/EnefSaenz/Pixabay",
