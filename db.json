@@ -91,17 +91,17 @@
       "value": 4
     },
     {
-      "id": 1,
+      "id": 2,
       "name": "NodeJS",
       "value": 3.5
     },
     {
-      "id": 1,
+      "id": 3,
       "name": "Java",
       "value": 4
     },
     {
-      "id": 1,
+      "id": 4,
       "name": "Spring Framework",
       "value": 4
     }
