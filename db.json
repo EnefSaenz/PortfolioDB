@@ -29,7 +29,7 @@
         }
       ],
       "urlGit": "https://github.com/EnefSaenz/DrinksRecipes",
-      "description": "Drinks recipes project establish a connection with an API from thecocktaildb.com for getting a list of recipes. Recipes received from the API are shown in modals by clicking on the main card of selected drink. This project was developed using ReactJS and using hooks like useContext and useEffect.",
+      "description": "Drinks recipes project establishes a connection with an API from thecocktaildb.com for getting a list of recipes. Recipes received from the API are shown in modals by clicking on the main card of selected drink. This project was developed using ReactJS and using hooks like useContext and useEffect.",
       "iconTech": "react"
     },
     {
