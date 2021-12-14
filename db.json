@@ -61,7 +61,7 @@
         }
       ],
       "urlGit": "https://github.com/EnefSaenz/CryptoCurrencies",
-      "description": "One of simplest projects that I have developed, it works consumming an API which provide information in real time about cryptocurrencies. You can choose your main fiat coin and get the equivalent value in a crypto coin.",
+      "description": "One of the simplest projects that I have developed, it works consumming an API which provide information in real time about cryptocurrencies. You can choose your main fiat coin and get the equivalent value in a crypto coin.",
       "iconTech": "react"
     },
     {
