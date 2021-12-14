@@ -83,5 +83,27 @@
       "description": "This project gets images from Pixabay's API. When data was received, it is shown as a card listed in main page and you can get the image selected by clicking it.",
       "iconTech": "js-square"
     }
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "name": "ReactJS",
+      "value": 4
+    },
+    {
+      "id": 1,
+      "name": "NodeJS",
+      "value": 3.5
+    },
+    {
+      "id": 1,
+      "name": "Java",
+      "value": 4
+    },
+    {
+      "id": 1,
+      "name": "Spring Framework",
+      "value": 4
+    }
   ]
 }
