@@ -2,6 +2,25 @@
   "projects": [
     {
       "id": 1,
+      "name": "Product Hunt",
+      "url": "https://producthunt-a8280.web.app/",
+      "images": [
+        {
+          "url": "/static/img/projects/ProductHunt_1.jpg"
+        },
+        {
+          "url": "/static/img/projects/ProductHunt_2.jpg"
+        },
+        {
+          "url": "/static/img/projects/ProductHunt_3.jpg"
+        }
+      ],
+      "urlGit": "https://github.com/EnefSaenz/ProductHunt",
+      "description": "Proyecto clon del sitio web Product Hunt que utiliza Firebase de Google como back en la nube.",
+      "iconTech": "react"
+    },
+    {
+      "id": 2,
       "name": "MERN Tasks",
       "url": "https://mern-tasks-by-enef.netlify.app/",
       "images": [
